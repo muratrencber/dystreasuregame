@@ -1,0 +1,656 @@
+{
+    "texts": [
+        {
+            "key": "zombie_dialogue_01",
+            "value": "Mmmm... Mmm? Hmm..."
+        },
+        {
+            "key": "zombie_dialogue_02",
+            "value": "Kedinin tadını vermiyor..."
+        },
+        {
+            "key": "zombie_dialogue_03",
+            "value": "Yine de, çaban taktire şayan insan!"
+        },
+        {
+            "key": "zombie_dialogue_04",
+            "value": "Hmm... Az leziz."
+        },
+        {
+            "key": "zombie_dialogue_05",
+            "value": "Bak sana ne diyeceğim insan. Seni hayatta bırakıyorum."
+        },
+        {
+            "key": "zombie_dialogue_06",
+            "value": "Sen de minnetinin göstergesi olarak, bana leziz bir yemek getireceksin."
+        },
+        {
+            "key": "zombie_dialogue_07",
+            "value": "Anlaştık, değil mi? Mmmm..."
+        },
+        {
+            "key": "zombie_dialogue_08",
+            "value": "Mmmm..."
+        },
+        {
+            "key": "zombie_dialogue_09",
+            "value": "Mmmm... MMMMM...."
+        },
+        {
+            "key": "zombie_dialogue_10",
+            "value": "Şahane... ŞAHANE!"
+        },
+        {
+            "key": "zombie_dialogue_11",
+            "value": "Sana minnettarım insan!"
+        },
+        {
+            "key": "zombie_dialogue_12",
+            "value": "Al! Yazarkasanın anahtarı!"
+        },
+        {
+            "key": "zombie_dialogue_13",
+            "value": "Gerçek bir lezzet işte!"
+        },
+        {
+            "key": "zombie_dialogue_14",
+            "value": "LEZİZ YEMEK!"
+        },
+        {
+            "key": "zombie_dialogue_15",
+            "value": "Gel buraya..!"
+        },
+        {
+            "key": "zombie_dialogue_16",
+            "value": "Mmmmmm"
+        },
+        {
+            "key": "zombie_dialogue_17",
+            "value": "Lezzzetlim..."
+        },
+        {
+            "key": "zombie_dialogue_18",
+            "value": "YEMEK!"
+        },
+        {
+            "key": "zombie_dialogue_19",
+            "value": "Ah!"
+        },
+        {
+            "key": "empty",
+            "value": ""
+        },
+        {
+            "key": "space",
+            "value": " "
+        },
+        {
+            "key": "dad_dialogue_01",
+            "value": "Yaklaşma... Lütfen..."
+        },
+        {
+            "key": "dad_dialogue_02",
+            "value": "Sana verecek suyum yok! Defol git!"
+        },
+        {
+            "key": "dad_dialogue_03",
+            "value": "YAKLAŞMA!"
+        },
+        {
+            "key": "dad_dialogue_04",
+            "value": "Siktir ulan!"
+        },
+        {
+            "key": "dad_dialogue_05",
+            "value": "Güvenliğin icabına bakarsan, bir şeylerim olabilir."
+        },
+        {
+            "key": "dad_dialogue_06",
+            "value": "Teşekkür ederim."
+        },
+        {
+            "key": "dad_dialogue_07",
+            "value": "Al, çok değil ama umarım işine yarar."
+        },
+        {
+            "key": "dad_dialogue_08",
+            "value": "Bak ne diyeceğim, silahları takas etmeye ne dersin?"
+        },
+        {
+            "key": "dad_dialogue_09",
+            "value": "Elimdeki tüfek otomat camlarını parçalayabilecek güçte."
+        },
+        {
+            "key": "dad_dialogue_10",
+            "value": "Bereket versin."
+        },
+        {
+            "key": "dad_dialogue_11",
+            "value": "Ah! Pekala!"
+        },
+        {
+            "key": "dad_dialogue_12",
+            "value": "Yok."
+        },
+        {
+            "key": "dad_dialogue_13",
+            "value": "Tabii! Değiştirmek istiyor musun?"
+        },
+        {
+            "key": "dad_dialogue_14",
+            "value": "Ne..? Selim piçi mi? Bak sana ne diyeceğim."
+        },
+        {
+            "key": "dad_dialogue_15",
+            "value": "O piçi öldürürsen sana elimizdeki suyun bir kısmını verebilirim."
+        },
+        {
+            "key": "dad_dialogue_16",
+            "value": "Teşekkürler, buna çok ihtiyacımız vardı."
+        },
+        {
+            "key": "dad_dialogue_17",
+            "value": "Ee... İstersen tüfeğimle silahını değiş tokuş edebiliriz."
+        },
+        {
+            "key": "dad_dialogue_18",
+            "value": "Ne?"
+        },
+        {
+            "key": "dad_dialogue_19",
+            "value": "Bu ne..?"
+        },
+        {
+            "key": "dad_dialogue_20",
+            "value": "Ha..?"
+        },
+        {
+            "key": "dad_dialogue_21",
+            "value": "Alçak herif!"
+        },
+        {
+            "key": "dad_dialogue_22",
+            "value": "Geri bas!"
+        },
+        {
+            "key": "dad_dialogue_23",
+            "value": "Git buradan!"
+        },
+        {
+            "key": "dad_dialogue_24",
+            "value": "Kaybol!"
+        },
+        {
+            "key": "dad_dialogue_25",
+            "value": "Yaklaşma!"
+        },
+        {
+            "key": "guard_dialogue_01",
+            "value": "Soymak için yanlış kişiyi seçtin birader. Kapım kilitli, camım da oldukça sağlamdır."
+        },
+        {
+            "key": "guard_dialogue_02",
+            "value": "Keyfin bilir."
+        },
+        {
+            "key": "guard_dialogue_03",
+            "value": "Sikeyim onu."
+        },
+        {
+            "key": "guard_dialogue_04",
+            "value": "İçme suyu otomat odasında, ama otomatlar çalışıyor mu emin değilim. İlk önce güç odasından şalterleri açman gerekebilir."
+        },
+        {
+            "key": "guard_dialogue_05",
+            "value": "Koridorun sonundan kantine git. Kantinden bağlantı var. Kantinciye dikkat et, biraz... aç."
+        },
+        {
+            "key": "guard_dialogue_06",
+            "value": "Bende anahtarı var, ama benim için bir şey yapmanı istiyorum."
+        },
+        {
+            "key": "guard_dialogue_07",
+            "value": "Üst katta müdür odasında kalan bir aile var. Babanın kafasına sık, yüzüğünü de bana getir."
+        },
+        {
+            "key": "guard_dialogue_08",
+            "value": "Bol şans, otomatın camları da benimki gibi."
+        },
+        {
+            "key": "guard_dialogue_09",
+            "value": "Teşekkürler, o piçi hallettiğin iyi oldu."
+        },
+        {
+            "key": "guard_dialogue_10",
+            "value": "Umarım aradığını bulursun."
+        },
+        {
+            "key": "guard_dialogue_11",
+            "value": "Yalvarırım! Yapma!"
+        },
+        {
+            "key": "guard_dialogue_12",
+            "value": "Lütfen!"
+        },
+        {
+            "key": "guard_dialogue_13",
+            "value": "Hayır!"
+        },
+        {
+            "key": "guard_dialogue_14",
+            "value": "Yüzüğü getir, kartı al."
+        },
+        {
+            "key": "guard_dialogue_15",
+            "value": "AH!"
+        },
+        {
+            "key": "guard_answer_01",
+            "value": "Selam."
+        },
+        {
+            "key": "guard_answer_02",
+            "value": "HEY!"
+        },
+        {
+            "key": "guard_answer_03",
+            "value": "Seni soyma niyetinde değilim. Su arıyorum."
+        },
+        {
+            "key": "guard_answer_04",
+            "value": "Eminim bir yolunu bulurum."
+        },
+        {
+            "key": "guard_answer_05",
+            "value": "Yukarıdaki herif selamını söylüyor."
+        },
+        {
+            "key": "guard_answer_06",
+            "value": "Nerede bu otomat odası?"
+        },
+        {
+            "key": "guard_answer_07",
+            "value": "Otomatı parçalayıp alırım."
+        },
+        {
+            "key": "guard_answer_08",
+            "value": "Güç odasına nasıl gideceğim?"
+        },
+        {
+            "key": "guard_answer_09",
+            "value": "Su arıyorum. Yardımcı olabilir misin?"
+        },
+        {
+            "key": "guard_answer_10",
+            "value": "İlk senin camını, sonra otomatınkini. Hehe."
+        },
+        {
+            "key": "guard_answer_11",
+            "value": "..."
+        },
+        {
+            "key": "guard_answer_12",
+            "value": "Sanmıyorum."
+        },
+        {
+            "key": "guard_answer_13",
+            "value": "Bir bakarım."
+        },
+        {
+            "key": "guard_answer_14",
+            "value": "Çoktan hallettim."
+        },
+        {
+            "key": "dad_answer_01",
+            "value": "Sakin ol. Sadece su arıyorum."
+        },
+        {
+            "key": "dad_answer_02",
+            "value": "Aşağıdaki güvenlik kafana sıkmamı söyledi."
+        },
+        {
+            "key": "dad_answer_03",
+            "value": "Suyun var mı?"
+        },
+        {
+            "key": "dad_answer_04",
+            "value": "Silahı indir."
+        },
+        {
+            "key": "dad_answer_05",
+            "value": "Güvenliği hallettim."
+        },
+        {
+            "key": "dad_answer_06",
+            "value": "Tüfek teklifin hala geçerli mi?"
+        },
+        {
+            "key": "dad_answer_07",
+            "value": "Tamam, tamam. Sakin ol."
+        },
+        {
+            "key": "dad_answer_08",
+            "value": "Son uyarım, silahı indir."
+        },
+        {
+            "key": "dad_answer_09",
+            "value": "Olur."
+        },
+        {
+            "key": "dad_answer_10",
+            "value": "İstemiyorum."
+        },
+        {
+            "key": "dad_answer_11",
+            "value": "Takas yok. Tüfeğini ver, ben de hayatını bağışlayayım."
+        },
+        {
+            "key": "dad_answer_12",
+            "value": "Tamam."
+        },
+        {
+            "key": "dad_answer_13",
+            "value": "Sanmıyorum."
+        },
+        {
+            "key": "dad_answer_14",
+            "value": "Herifi öldürdüm zaten."
+        },
+        {
+            "key": "dad_answer_15",
+            "value": "Evet."
+        },
+        {
+            "key": "dad_answer_16",
+            "value": "Hayır."
+        },
+        {
+            "key": "child_talk_01",
+            "value": "Teşekkürler."
+        },
+        {
+            "key": "child_talk_02",
+            "value": "Kedileri severim."
+        },
+        {
+            "key": "child_talk_03",
+            "value": "Bilgisayarları da."
+        },
+        {
+            "key": "child_talk_04",
+            "value": "Birisinin şifresi #password# idi."
+        },
+        {
+            "key": "interact_name_01",
+            "value": "Levye"
+        },
+        {
+            "key": "interact_name_02",
+            "value": "Tabanca"
+        },
+        {
+            "key": "interact_name_03",
+            "value": "Para"
+        },
+        {
+            "key": "interact_name_04",
+            "value": "Kedi"
+        },
+        {
+            "key": "interact_name_05",
+            "value": "Cips"
+        },
+        {
+            "key": "interact_name_06",
+            "value": "Yüzük"
+        },
+        {
+            "key": "interact_name_07",
+            "value": "Tüfek"
+        },
+        {
+            "key": "interact_name_08",
+            "value": "Kart"
+        },
+        {
+            "key": "interact_name_09",
+            "value": "Kapı"
+        },
+        {
+            "key": "interact_name_10",
+            "value": "Şalter"
+        },
+        {
+            "key": "interact_name_11",
+            "value": "Herif"
+        },
+        {
+            "key": "interact_name_12",
+            "value": "Merdiven"
+        },
+        {
+            "key": "interact_name_13",
+            "value": "Çocuk"
+        },
+        {
+            "key": "interact_name_14",
+            "value": "Bilgisayar"
+        },
+        {
+            "key": "interact_name_15",
+            "value": "Adam"
+        },
+        {
+            "key": "interact_name_16",
+            "value": "İçme Suyu"
+        },
+        {
+            "key": "interact_name_17",
+            "value": "Oğul"
+        },
+        {
+            "key": "interact_name_18",
+            "value": "Baba"
+        },
+        {
+            "key": "interact_name_19",
+            "value": "Anahtar"
+        },
+        {
+            "key": "interact_name_20",
+            "value": "Dost Kedi"
+        },
+        {
+            "key": "interact_name_21",
+            "value": "Selim"
+        },
+        {
+            "key": "interact_name_22",
+            "value": "Çıkış Kapısı"
+        },
+        {
+            "key": "interact_type_01",
+            "value": "İndir"
+        },
+        {
+            "key": "interact_type_02",
+            "value": "Al"
+        },
+        {
+            "key": "interact_type_03",
+            "value": "Kullan"
+        },
+        {
+            "key": "interact_type_04",
+            "value": "Konuş"
+        },
+        {
+            "key": "interact_type_05",
+            "value": "İn"
+        },
+        {
+            "key": "interact_type_06",
+            "value": "Tırman"
+        },
+        {
+            "key": "interact_type_07",
+            "value": "Evine Dön"
+        },
+        {
+            "key": "computer_ui_01",
+            "value": "İZİN VERİLDİ"
+        },
+        {
+            "key": "computer_ui_02",
+            "value": "ERİŞİM REDDEDİLDİ"
+        },
+        {
+            "key": "ui_text_01",
+            "value": "Başlamak için Space tuşuna bas."
+        },
+        {
+            "key": "ui_text_02",
+            "value": "W,A,S,D - Hareket\nSol Tık - Eşya Kullanma\nTAB - Kontrolleri Görüntüleme\nSPACE - Diyalogları atla\nSHIFT - Koş"
+        },
+        {
+            "key": "ui_text_03",
+            "value": "Devam etmek için Space tuşuna bas."
+        },
+        {
+            "key": "ui_text_04",
+            "value": "Toplam oynama süresi: #playtime#\nKazanılan başarımlar: #achievements#"
+        },
+        {
+            "key": "ui_text_05",
+            "value": "ESC- Oyuna Dön\nX- Oyundan Çık"
+        },
+        {
+            "key": "cutscene_start_01",
+            "value": "Yıl 2065. İnsanlık artık nesli tükenmekte olan bir tür. Küresel ısınma sonrası yaşanan büyük göçler ve ülkeler arası gerilimler ortalama bir insanın güvenilir bir su kaynağına erişimini neredeyse imkansız kıldı."
+        },
+        {
+            "key": "cutscene_start_02",
+            "value": "Yerel tefecinden 1 (bir) su şişesi borç aldın. Ödemeyi geçen hafta yapman gerekiyordu."
+        },
+        {
+            "key": "cutscene_start_03",
+            "value": "Borcun 9 (dokuz) katına çıktı. Tefecin senden 9 (dokuz) şişe içme suyu istiyor."
+        },
+        {
+            "key": "cutscene_start_04",
+            "value": "İçme suyu bulabileceğini duyduğun terk edilmiş bir mekandasın."
+        },
+        {
+            "key": "cutscene_start_05",
+            "value": "Borcunu ödemezsen tefecin seni radyoaktif farelerine yem edecek."
+        },
+        {
+            "key": "cutscene_start_06",
+            "value": "Su bul."
+        },
+        {
+            "key": "cutscene_end_success_01",
+            "value": "Tefecine borcunu ödemeye başardın."
+        },
+        {
+            "key": "cutscene_end_success_02",
+            "value": "Yine de gecikmiş olduğun için 3 (üç) parmağını kesti."
+        },
+        {
+            "key": "cutscene_end_success_03",
+            "value": "Sığınağına döndüğünde evde su olmadığını fark ettin."
+        },
+        {
+            "key": "cutscene_end_success_04",
+            "value": "Tefecinden 1 (bir) su daha borç almak için yola koyuldun."
+        },
+        {
+            "key": "cutscene_end_fail_01",
+            "value": "Tefecine borcun olan kadar su veremedin."
+        },
+        {
+            "key": "cutscene_end_fail_02",
+            "value": "Seni radyoaktif farelerine yem etti."
+        },
+        {
+            "key": "cutscene_end_fail_03",
+            "value": "Öldün."
+        },
+        {
+            "key": "cutscene_end_dead_01",
+            "value": "Öldün."
+        },
+        {
+            "key": "achievement_01",
+            "value": "Kediyi öldürdün."
+        },
+        {
+            "key": "achievement_02",
+            "value": "Çocuğun babasını öldürdün. Ne kötü bir ölüm şekli."
+        },
+        {
+            "key": "achievement_03",
+            "value": "Kendine bir kısayol oluşturdun."
+        },
+        {
+            "key": "achievement_04",
+            "value": "Kasayı açtın."
+        },
+        {
+            "key": "achievement_05",
+            "value": "Yüzüğü güvenlik görevlisine verdin."
+        },
+        {
+            "key": "achievement_06",
+            "value": "Kediye güvenlik görevlisini katlettirdin."
+        },
+        {
+            "key": "achievement_07",
+            "value": "Güvenlik görevlisini bir silahla öldürdün."
+        },
+        {
+            "key": "achievement_08",
+            "value": "Zombi şefi öldürdün."
+        },
+        {
+            "key": "achievement_09",
+            "value": "Yazar kasayı açtın."
+        },
+        {
+            "key": "achievement_10",
+            "value": "Zombi şefi kediyle besledin."
+        },
+        {
+            "key": "achievement_11",
+            "value": "Zombi şefi patates cipsiyle besledin."
+        },
+        {
+            "key": "achievement_12",
+            "value": "Baba ile silahları değiş tokuş yaptın."
+        },
+        {
+            "key": "achievement_13",
+            "value": "Güvenlik odasındaki havalandırmayı kullandın."
+        },
+        {
+            "key": "achievement_14",
+            "value": "Çocuğa patates cipslerini verdin."
+        },
+        {
+            "key": "achievement_15",
+            "value": "Çocuğa kediyi verdin."
+        },
+        {
+            "key": "achievement_16",
+            "value": "Kediyi patates cipsleriyle besledin."
+        },
+		{
+            "key": "achievement_start",
+            "value": "Bu oyunda..."
+        },
+		{
+            "key": "achievement_nothing",
+            "value": "Hiçbir şey yapmadın."
+        }
+    ]
+}

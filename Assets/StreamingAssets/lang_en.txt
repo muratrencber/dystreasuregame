@@ -1,0 +1,656 @@
+{
+    "texts": [
+        {
+            "key": "zombie_dialogue_01",
+            "value": "Mmmm... Mmm? Hmm..."
+        },
+        {
+            "key": "zombie_dialogue_02",
+            "value": "Doesn't taste as good as a cat..."
+        },
+        {
+            "key": "zombie_dialogue_03",
+            "value": "Nonetheless, your efforts are worth a praise, human!"
+        },
+        {
+            "key": "zombie_dialogue_04",
+            "value": "Hmm... Not that tasty."
+        },
+        {
+            "key": "zombie_dialogue_05",
+            "value": "Listem to what I'll tell you, human. I will leave you alive."
+        },
+        {
+            "key": "zombie_dialogue_06",
+            "value": "And you, as a demonstration of your gratitude, will bring me a tasty meal."
+        },
+        {
+            "key": "zombie_dialogue_07",
+            "value": "Deal, right? Mmmm..."
+        },
+        {
+            "key": "zombie_dialogue_08",
+            "value": "Mmmm..."
+        },
+        {
+            "key": "zombie_dialogue_09",
+            "value": "Mmmm... MMMMM...."
+        },
+        {
+            "key": "zombie_dialogue_10",
+            "value": "Extraordinary... EXTRAORDINARY!"
+        },
+        {
+            "key": "zombie_dialogue_11",
+            "value": "I am grateful, human!"
+        },
+        {
+            "key": "zombie_dialogue_12",
+            "value": "Here, take it! The key to the cash register!"
+        },
+        {
+            "key": "zombie_dialogue_13",
+            "value": "Now this is a true appetite."
+        },
+        {
+            "key": "zombie_dialogue_14",
+            "value": "TASTY MEAL!"
+        },
+        {
+            "key": "zombie_dialogue_15",
+            "value": "Come here..!"
+        },
+        {
+            "key": "zombie_dialogue_16",
+            "value": "Mmmmmm"
+        },
+        {
+            "key": "zombie_dialogue_17",
+            "value": "My luscious..."
+        },
+        {
+            "key": "zombie_dialogue_18",
+            "value": "FOOD!"
+        },
+        {
+            "key": "zombie_dialogue_19",
+            "value": "Ah!"
+        },
+        {
+            "key": "empty",
+            "value": ""
+        },
+        {
+            "key": "space",
+            "value": " "
+        },
+        {
+            "key": "dad_dialogue_01",
+            "value": "Stay away... Please..."
+        },
+        {
+            "key": "dad_dialogue_02",
+            "value": "I don't have any water to give you! Go away!"
+        },
+        {
+            "key": "dad_dialogue_03",
+            "value": "STAY BACK!"
+        },
+        {
+            "key": "dad_dialogue_04",
+            "value": "Fuck off!"
+        },
+        {
+            "key": "dad_dialogue_05",
+            "value": "I may have something if you take care of the security guard."
+        },
+        {
+            "key": "dad_dialogue_06",
+            "value": "Thank you."
+        },
+        {
+            "key": "dad_dialogue_07",
+            "value": "Here, it's not much but hopefully it'll do the job."
+        },
+        {
+            "key": "dad_dialogue_08",
+            "value": "Hey listen, how about exchanging our weapons?"
+        },
+        {
+            "key": "dad_dialogue_09",
+            "value": "The gun I have is powerful enough to break the glass of a vending machine."
+        },
+        {
+            "key": "dad_dialogue_10",
+            "value": "May Lord give you wealth."
+        },
+        {
+            "key": "dad_dialogue_11",
+            "value": "Oh! Alright!"
+        },
+        {
+            "key": "dad_dialogue_12",
+            "value": "None."
+        },
+        {
+            "key": "dad_dialogue_13",
+            "value": "Of course! You want to change it?"
+        },
+        {
+            "key": "dad_dialogue_14",
+            "value": "What..? That bastard Selim? Listen up."
+        },
+        {
+            "key": "dad_dialogue_15",
+            "value": "If you kill that bastard, I can give you some of the water I have."
+        },
+        {
+            "key": "dad_dialogue_16",
+            "value": "Thank you, we really needed that."
+        },
+        {
+            "key": "dad_dialogue_17",
+            "value": "Uh... If you want, we can exchange your pistol with my gun."
+        },
+        {
+            "key": "dad_dialogue_18",
+            "value": "What?"
+        },
+        {
+            "key": "dad_dialogue_19",
+            "value": "What is this..?"
+        },
+        {
+            "key": "dad_dialogue_20",
+            "value": "Huh..?"
+        },
+        {
+            "key": "dad_dialogue_21",
+            "value": "You scum!"
+        },
+        {
+            "key": "dad_dialogue_22",
+            "value": "Back off!"
+        },
+        {
+            "key": "dad_dialogue_23",
+            "value": "Go away!"
+        },
+        {
+            "key": "dad_dialogue_24",
+            "value": "Get lost!"
+        },
+        {
+            "key": "dad_dialogue_25",
+            "value": "Stay back!"
+        },
+        {
+            "key": "guard_dialogue_01",
+            "value": "You chose the wrong guy to rob, brother. My door is locked, and the glass is quite strong."
+        },
+        {
+            "key": "guard_dialogue_02",
+            "value": "Whatever you say."
+        },
+        {
+            "key": "guard_dialogue_03",
+            "value": "Fuck him."
+        },
+        {
+            "key": "guard_dialogue_04",
+            "value": "There are drinking water in the vending room, but I'm not sure if the vending machines are working. You may need to turn on the power from the breaker room."
+        },
+        {
+            "key": "guard_dialogue_05",
+            "value": "Go to the cafeteria from the end of the corridor. There is a way from there. Be careful of the chef, he's a little... hungry."
+        },
+        {
+            "key": "guard_dialogue_06",
+            "value": "I have the key, but I'm gonna have to ask you a favor."
+        },
+        {
+            "key": "guard_dialogue_07",
+            "value": "There's a family residing in the director room upstairs. Blow the father's head off, and bring me the ring."
+        },
+        {
+            "key": "guard_dialogue_08",
+            "value": "Good luck with that, the vending machine has glass as strong as mine."
+        },
+        {
+            "key": "guard_dialogue_09",
+            "value": "Thanks, it's good you dealt with that bastard."
+        },
+        {
+            "key": "guard_dialogue_10",
+            "value": "I hope you find what you're looking for."
+        },
+        {
+            "key": "guard_dialogue_11",
+            "value": "I beg you! Please, don't!"
+        },
+        {
+            "key": "guard_dialogue_12",
+            "value": "Please!!"
+        },
+        {
+            "key": "guard_dialogue_13",
+            "value": "No!"
+        },
+        {
+            "key": "guard_dialogue_14",
+            "value": "Bring me the ring, take the keycard."
+        },
+        {
+            "key": "guard_dialogue_15",
+            "value": "AH!"
+        },
+        {
+            "key": "guard_answer_01",
+            "value": "Greetings."
+        },
+        {
+            "key": "guard_answer_02",
+            "value": "HEY!"
+        },
+        {
+            "key": "guard_answer_03",
+            "value": "I have no intentions to rob you. I'm looking for some water."
+        },
+        {
+            "key": "guard_answer_04",
+            "value": "I'm sure I'll find a way."
+        },
+        {
+            "key": "guard_answer_05",
+            "value": "The lad upstairs sends his regards."
+        },
+        {
+            "key": "guard_answer_06",
+            "value": "Where is this vending room?"
+        },
+        {
+            "key": "guard_answer_07",
+            "value": "I will destroy the vending machine to take them."
+        },
+        {
+            "key": "guard_answer_08",
+            "value": "How should I go to the breaker room?"
+        },
+        {
+            "key": "guard_answer_09",
+            "value": "I'm looking for some water. Can you help me?"
+        },
+        {
+            "key": "guard_answer_10",
+            "value": "First your glass, then the one of vending machine."
+        },
+        {
+            "key": "guard_answer_11",
+            "value": "..."
+        },
+        {
+            "key": "guard_answer_12",
+            "value": "I don't think so."
+        },
+        {
+            "key": "guard_answer_13",
+            "value": "I will have a look."
+        },
+        {
+            "key": "guard_answer_14",
+            "value": "Already done."
+        },
+        {
+            "key": "dad_answer_01",
+            "value": "Relax, I'm just looking for some water."
+        },
+        {
+            "key": "dad_answer_02",
+            "value": "The security guard downstairs told me to blow your head off."
+        },
+        {
+            "key": "dad_answer_03",
+            "value": "Have any water?"
+        },
+        {
+            "key": "dad_answer_04",
+            "value": "Put down your weapon."
+        },
+        {
+            "key": "dad_answer_05",
+            "value": "I took care of the guard."
+        },
+        {
+            "key": "dad_answer_06",
+            "value": "Is your gun offer still valid?"
+        },
+        {
+            "key": "dad_answer_07",
+            "value": "Alright, alright. Be calm."
+        },
+        {
+            "key": "dad_answer_08",
+            "value": "This is your last warning. Put down your weapon."
+        },
+        {
+            "key": "dad_answer_09",
+            "value": "Sure."
+        },
+        {
+            "key": "dad_answer_10",
+            "value": "I don't want to."
+        },
+        {
+            "key": "dad_answer_11",
+            "value": "There is no exchange. Give me your gun, and I shall spare your life."
+        },
+        {
+            "key": "dad_answer_12",
+            "value": "Okay."
+        },
+        {
+            "key": "dad_answer_13",
+            "value": "I don't think you."
+        },
+        {
+            "key": "dad_answer_14",
+            "value": "Already killed the guy."
+        },
+        {
+            "key": "dad_answer_15",
+            "value": "Yes."
+        },
+        {
+            "key": "dad_answer_16",
+            "value": "No."
+        },
+        {
+            "key": "child_talk_01",
+            "value": "Thank you."
+        },
+        {
+            "key": "child_talk_02",
+            "value": "I like cats."
+        },
+        {
+            "key": "child_talk_03",
+            "value": "And computers."
+        },
+        {
+            "key": "child_talk_04",
+            "value": "The code to one of them was #password#."
+        },
+        {
+            "key": "interact_name_01",
+            "value": "Crowbar"
+        },
+        {
+            "key": "interact_name_02",
+            "value": "Pistol"
+        },
+        {
+            "key": "interact_name_03",
+            "value": "Coin"
+        },
+        {
+            "key": "interact_name_04",
+            "value": "Cat"
+        },
+        {
+            "key": "interact_name_05",
+            "value": "Potato chips"
+        },
+        {
+            "key": "interact_name_06",
+            "value": "Ring"
+        },
+        {
+            "key": "interact_name_07",
+            "value": "SMG"
+        },
+        {
+            "key": "interact_name_08",
+            "value": "Keycard"
+        },
+        {
+            "key": "interact_name_09",
+            "value": "Door"
+        },
+        {
+            "key": "interact_name_10",
+            "value": "Breaker"
+        },
+        {
+            "key": "interact_name_11",
+            "value": "Guy"
+        },
+        {
+            "key": "interact_name_12",
+            "value": "Ladder"
+        },
+        {
+            "key": "interact_name_13",
+            "value": "Kid"
+        },
+        {
+            "key": "interact_name_14",
+            "value": "Computer"
+        },
+        {
+            "key": "interact_name_15",
+            "value": "Man"
+        },
+        {
+            "key": "interact_name_16",
+            "value": "Drinking Water"
+        },
+        {
+            "key": "interact_name_17",
+            "value": "Son"
+        },
+        {
+            "key": "interact_name_18",
+            "value": "Father"
+        },
+        {
+            "key": "interact_name_19",
+            "value": "Key"
+        },
+        {
+            "key": "interact_name_20",
+            "value": "Friendly Cat"
+        },
+        {
+            "key": "interact_name_21",
+            "value": "Selim"
+        },
+        {
+            "key": "interact_name_22",
+            "value": "Exit Door"
+        },
+        {
+            "key": "interact_type_01",
+            "value": "Pull Down"
+        },
+        {
+            "key": "interact_type_02",
+            "value": "Take"
+        },
+        {
+            "key": "interact_type_03",
+            "value": "Interact"
+        },
+        {
+            "key": "interact_type_04",
+            "value": "Speak"
+        },
+        {
+            "key": "interact_type_05",
+            "value": "Climb Down"
+        },
+        {
+            "key": "interact_type_06",
+            "value": "Climb Up"
+        },
+        {
+            "key": "interact_type_07",
+            "value": "Go Home"
+        },
+        {
+            "key": "computer_ui_01",
+            "value": "ACCESS GRANTED"
+        },
+        {
+            "key": "computer_ui_02",
+            "value": "ACCESS DENIED"
+        },
+        {
+            "key": "ui_text_01",
+            "value": "Press Space to start."
+        },
+        {
+            "key": "ui_text_02",
+            "value": "W,A,S,D - Movement\nLeft Click - Use Item\nTAB - Display Controls\nSPACE - Skip Dialogue\nSHIFT - Sprint"
+        },
+        {
+            "key": "ui_text_03",
+            "value": "Press Space to continue."
+        },
+        {
+            "key": "ui_text_04",
+            "value": "Total time played: #playtime#\nAchievements won: #achievements#"
+        },
+        {
+            "key": "ui_text_05",
+            "value": "ESC- Resume Game\nX- Exit"
+        },
+        {
+            "key": "cutscene_start_01",
+            "value": "The year is 2065. Humankind, as a species, is slowly going extinct. Great immigrations and tensions between countries after the effects of global warming has made it almost impossible for common folk to have a stable supply of drinking water."
+        },
+        {
+            "key": "cutscene_start_02",
+            "value": "You borrowed 1 (one) bottle of drinking water from your loan shark. You were supposed to pay up last week."
+        },
+        {
+            "key": "cutscene_start_03",
+            "value": "Your debt has increased 9 (nine) fold. Your loan shark now wants 9 (nine) bottles of drinking water."
+        },
+        {
+            "key": "cutscene_start_04",
+            "value": "You are in an abandoned place which supposedly has some drinking water."
+        },
+        {
+            "key": "cutscene_start_05",
+            "value": "The loan shark will feed you to radioactive rats if you don't pay your debt."
+        },
+        {
+            "key": "cutscene_start_06",
+            "value": "Find some water."
+        },
+        {
+            "key": "cutscene_end_success_01",
+            "value": "You have succeeded to pay your debt to the loan shark."
+        },
+        {
+            "key": "cutscene_end_success_02",
+            "value": "But she cut off your 3 (three) fingers because you were late."
+        },
+        {
+            "key": "cutscene_end_success_03",
+            "value": "You went back to your shelter, but realized you don't have any water."
+        },
+        {
+            "key": "cutscene_end_success_04",
+            "value": "You hit the road to borrow 1 (one) bottle of water from the loan shark."
+        },
+        {
+            "key": "cutscene_end_fail_01",
+            "value": "You couldn't pay enough water to the loan shark to close your debt."
+        },
+        {
+            "key": "cutscene_end_fail_02",
+            "value": "She fed you to radioactive rats."
+        },
+        {
+            "key": "cutscene_end_fail_03",
+            "value": "You died."
+        },
+        {
+            "key": "cutscene_end_dead_01",
+            "value": "You died."
+        },
+        {
+            "key": "achievement_01",
+            "value": "You killed the cat."
+        },
+        {
+            "key": "achievement_02",
+            "value": "You killed the father of the child. What a rotten way to die."
+        },
+        {
+            "key": "achievement_03",
+            "value": "You made a shortcut for yourself."
+        },
+        {
+            "key": "achievement_04",
+            "value": "You opened the safe."
+        },
+        {
+            "key": "achievement_05",
+            "value": "You gave the ring to the security guard."
+        },
+        {
+            "key": "achievement_06",
+            "value": "You made the cat slaughter the guard."
+        },
+        {
+            "key": "achievement_07",
+            "value": "You killed the guard with a gun."
+        },
+        {
+            "key": "achievement_08",
+            "value": "You killed zombie chef."
+        },
+        {
+            "key": "achievement_09",
+            "value": "You opened the cash register."
+        },
+        {
+            "key": "achievement_10",
+            "value": "You fed the zombie with the cat."
+        },
+        {
+            "key": "achievement_11",
+            "value": "You fed the zombie with potato chips."
+        },
+        {
+            "key": "achievement_12",
+            "value": "You swapped weapons with the father."
+        },
+        {
+            "key": "achievement_13",
+            "value": "You used the vent in the security room."
+        },
+        {
+            "key": "achievement_14",
+            "value": "You gave the potato chips to the child."
+        },
+        {
+            "key": "achievement_15",
+            "value": "You gave the cat to the child."
+        },
+        {
+            "key": "achievement_16",
+            "value": "You fed the cat with the potate chips."
+        },
+		{
+            "key": "achievement_start",
+            "value": "In this playthrough..."
+        },
+		{
+            "key": "achievement_nothing",
+            "value": "You did nothing."
+        }
+    ]
+}

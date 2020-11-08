@@ -1,0 +1,1027 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Animations.meta
+    - Assets/Animations/Crowbar.controller
+    - Assets/Animations/Crowbar.controller.meta
+    - Assets/Animations/Gun.controller
+    - Assets/Animations/Gun.controller.meta
+    - Assets/Animations/Rifle.controller
+    - Assets/Animations/Rifle.controller.meta
+    - Assets/Animations/axe_idle.anim
+    - Assets/Animations/axe_idle.anim.meta
+    - Assets/Animations/axe_swing.anim
+    - Assets/Animations/axe_swing.anim.meta
+    - Assets/Animations/cat.meta
+    - Assets/Animations/cat/Cat.controller
+    - Assets/Animations/cat/Cat.controller.meta
+    - Assets/Animations/cat/cat_dead.anim
+    - Assets/Animations/cat/cat_dead.anim.meta
+    - Assets/Animations/cat/cat_eaten.anim
+    - Assets/Animations/cat/cat_eaten.anim.meta
+    - Assets/Animations/cat/cat_idle.anim
+    - Assets/Animations/cat/cat_idle.anim.meta
+    - Assets/Animations/cat/cat_walk.anim
+    - Assets/Animations/cat/cat_walk.anim.meta
+    - Assets/Animations/child.meta
+    - Assets/Animations/child/Child.controller
+    - Assets/Animations/child/Child.controller.meta
+    - Assets/Animations/child/child_idle_Sad.anim
+    - Assets/Animations/child/child_idle_Sad.anim.meta
+    - Assets/Animations/child/child_idle_normal.anim
+    - Assets/Animations/child/child_idle_normal.anim.meta
+    - Assets/Animations/dad.meta
+    - Assets/Animations/dad/dad_dead.anim
+    - Assets/Animations/dad/dad_dead.anim.meta
+    - Assets/Animations/dad/dad_die.anim
+    - Assets/Animations/dad/dad_die.anim.meta
+    - Assets/Animations/dad/dad_fire.anim
+    - Assets/Animations/dad/dad_fire.anim.meta
+    - Assets/Animations/dad/dad_hit_01_handgun.anim
+    - Assets/Animations/dad/dad_hit_01_handgun.anim.meta
+    - Assets/Animations/dad/dad_hit_01_rifle.anim
+    - Assets/Animations/dad/dad_hit_01_rifle.anim.meta
+    - Assets/Animations/dad/dad_hit_02_handgun.anim
+    - Assets/Animations/dad/dad_hit_02_handgun.anim.meta
+    - Assets/Animations/dad/dad_hit_02_rifle.anim
+    - Assets/Animations/dad/dad_hit_02_rifle.anim.meta
+    - Assets/Animations/dad/dad_hit_03_handgun.anim
+    - Assets/Animations/dad/dad_hit_03_handgun.anim.meta
+    - Assets/Animations/dad/dad_hit_03_rifle.anim
+    - Assets/Animations/dad/dad_hit_03_rifle.anim.meta
+    - Assets/Animations/dad/dad_idle_friendly_handgun.anim
+    - Assets/Animations/dad/dad_idle_friendly_handgun.anim.meta
+    - Assets/Animations/dad/dad_idle_friendly_rifle.anim
+    - Assets/Animations/dad/dad_idle_friendly_rifle.anim.meta
+    - Assets/Animations/dad/dad_idle_wild_handgun.anim
+    - Assets/Animations/dad/dad_idle_wild_handgun.anim.meta
+    - Assets/Animations/dad/dad_idle_wild_rifle.anim
+    - Assets/Animations/dad/dad_idle_wild_rifle.anim.meta
+    - Assets/Animations/glass.meta
+    - Assets/Animations/glass/Glass.controller
+    - Assets/Animations/glass/Glass.controller.meta
+    - Assets/Animations/glass/glass_condition_01.anim
+    - Assets/Animations/glass/glass_condition_01.anim.meta
+    - Assets/Animations/glass/glass_condition_02.anim
+    - Assets/Animations/glass/glass_condition_02.anim.meta
+    - Assets/Animations/glass/glass_condition_03.anim
+    - Assets/Animations/glass/glass_condition_03.anim.meta
+    - Assets/Animations/glass/glass_condition_04.anim
+    - Assets/Animations/glass/glass_condition_04.anim.meta
+    - Assets/Animations/glass/glass_condition_05.anim
+    - Assets/Animations/glass/glass_condition_05.anim.meta
+    - Assets/Animations/glass/glass_condition_06.anim
+    - Assets/Animations/glass/glass_condition_06.anim.meta
+    - Assets/Animations/glass/glass_condition_07.anim
+    - Assets/Animations/glass/glass_condition_07.anim.meta
+    - Assets/Animations/glass/glass_condition_08.anim
+    - Assets/Animations/glass/glass_condition_08.anim.meta
+    - Assets/Animations/glass/glass_condition_09.anim
+    - Assets/Animations/glass/glass_condition_09.anim.meta
+    - Assets/Animations/glass/glass_normal.anim
+    - Assets/Animations/glass/glass_normal.anim.meta
+    - Assets/Animations/gun_idle.anim
+    - Assets/Animations/gun_idle.anim.meta
+    - Assets/Animations/gun_shoot.anim
+    - Assets/Animations/gun_shoot.anim.meta
+    - Assets/Animations/ladder.meta
+    - Assets/Animations/ladder/OtomatMerdiven.controller
+    - Assets/Animations/ladder/OtomatMerdiven.controller.meta
+    - Assets/Animations/ladder/ladder_locked.anim
+    - Assets/Animations/ladder/ladder_locked.anim.meta
+    - Assets/Animations/ladder/ladder_unlock.anim
+    - Assets/Animations/ladder/ladder_unlock.anim.meta
+    - Assets/Animations/ladder/ladder_unlocked.anim
+    - Assets/Animations/ladder/ladder_unlocked.anim.meta
+    - Assets/Animations/rifle_idle.anim
+    - Assets/Animations/rifle_idle.anim.meta
+    - Assets/Animations/rifle_shoot.anim
+    - Assets/Animations/rifle_shoot.anim.meta
+    - Assets/Animations/selim.meta
+    - Assets/Animations/selim/selim_dead.anim
+    - Assets/Animations/selim/selim_dead.anim.meta
+    - Assets/Animations/selim/selim_die.anim
+    - Assets/Animations/selim/selim_die.anim.meta
+    - Assets/Animations/selim/selim_hit.anim
+    - Assets/Animations/selim/selim_hit.anim.meta
+    - Assets/Animations/selim/selim_idle_afraid.anim
+    - Assets/Animations/selim/selim_idle_afraid.anim.meta
+    - Assets/Animations/selim/slim_idle.anim
+    - Assets/Animations/selim/slim_idle.anim.meta
+    - Assets/Animations/test.anim
+    - Assets/Animations/test.anim.meta
+    - Assets/Animations/test2.anim
+    - Assets/Animations/test2.anim.meta
+    - Assets/Animations/ui.meta
+    - Assets/Animations/ui/ItemHandle.controller
+    - Assets/Animations/ui/ItemHandle.controller.meta
+    - Assets/Animations/ui/SplashAnim.controller
+    - Assets/Animations/ui/SplashAnim.controller.meta
+    - Assets/Animations/ui/handle_equip.anim
+    - Assets/Animations/ui/handle_equip.anim.meta
+    - Assets/Animations/ui/handle_hit.anim
+    - Assets/Animations/ui/handle_hit.anim.meta
+    - Assets/Animations/ui/handle_normal.anim
+    - Assets/Animations/ui/handle_normal.anim.meta
+    - Assets/Animations/ui/redScreen.controller
+    - Assets/Animations/ui/redScreen.controller.meta
+    - Assets/Animations/ui/splash.anim
+    - Assets/Animations/ui/splash.anim.meta
+    - Assets/Animations/ui/sunstruck32bit_0012_Katman-1.controller
+    - Assets/Animations/ui/sunstruck32bit_0012_Katman-1.controller.meta
+    - Assets/Animations/ui/ui_redscreen_hit.anim
+    - Assets/Animations/ui/ui_redscreen_hit.anim.meta
+    - Assets/Animations/ui/ui_redscreen_normal.anim
+    - Assets/Animations/ui/ui_redscreen_normal.anim.meta
+    - Assets/Animations/zombie.meta
+    - Assets/Animations/zombie/zombie_attack.anim
+    - Assets/Animations/zombie/zombie_attack.anim.meta
+    - Assets/Animations/zombie/zombie_dead.anim
+    - Assets/Animations/zombie/zombie_dead.anim.meta
+    - Assets/Animations/zombie/zombie_die.anim
+    - Assets/Animations/zombie/zombie_die.anim.meta
+    - Assets/Animations/zombie/zombie_hit_01.anim
+    - Assets/Animations/zombie/zombie_hit_01.anim.meta
+    - Assets/Animations/zombie/zombie_hit_02.anim
+    - Assets/Animations/zombie/zombie_hit_02.anim.meta
+    - Assets/Animations/zombie/zombie_hit_03.anim
+    - Assets/Animations/zombie/zombie_hit_03.anim.meta
+    - Assets/Animations/zombie/zombie_idle_back.anim
+    - Assets/Animations/zombie/zombie_idle_back.anim.meta
+    - Assets/Animations/zombie/zombie_idle_front.anim
+    - Assets/Animations/zombie/zombie_idle_front.anim.meta
+    - Assets/Animations/zombie/zombie_idle_side_right.anim
+    - Assets/Animations/zombie/zombie_idle_side_right.anim.meta
+    - Assets/Animations/zombie/zombile_idle_side_left.anim
+    - Assets/Animations/zombie/zombile_idle_side_left.anim.meta
+    - Assets/AnimatorScripts.meta
+    - Assets/AnimatorScripts/DialogueOptionAnimator.cs
+    - Assets/AnimatorScripts/DialogueOptionAnimator.cs.meta
+    - Assets/AnimatorScripts/DialogueOptionsAnimator.cs
+    - Assets/AnimatorScripts/DialogueOptionsAnimator.cs.meta
+    - Assets/AnimatorScripts/SetTalkerText.cs
+    - Assets/AnimatorScripts/SetTalkerText.cs.meta
+    - Assets/BreakableObject.cs
+    - Assets/BreakableObject.cs.meta
+    - Assets/DialogueTrees.meta
+    - Assets/DialogueTrees/CutsceneDialogueManager.controller
+    - Assets/DialogueTrees/CutsceneDialogueManager.controller.meta
+    - Assets/DialogueTrees/DadDialogueTree.controller
+    - Assets/DialogueTrees/DadDialogueTree.controller.meta
+    - Assets/DialogueTrees/GuardDialogueTree.controller
+    - Assets/DialogueTrees/GuardDialogueTree.controller.meta
+    - Assets/DialogueTrees/ZombieDialogueTree.controller
+    - Assets/DialogueTrees/ZombieDialogueTree.controller.meta
+    - Assets/Fonts.meta
+    - Assets/Fonts/Pixellari.ttf
+    - Assets/Fonts/Pixellari.ttf.meta
+    - Assets/GuardDeathCutscene.cs
+    - Assets/GuardDeathCutscene.cs.meta
+    - Assets/InitiateCharacterFunction.cs
+    - Assets/InitiateCharacterFunction.cs.meta
+    - Assets/LISTTEST.cs
+    - Assets/LISTTEST.cs.meta
+    - Assets/Materials.meta
+    - Assets/Materials/Line.mat
+    - Assets/Materials/Line.mat.meta
+    - Assets/Materials/PCScreen.mat
+    - Assets/Materials/PCScreen.mat.meta
+    - Assets/Materials/Sprite_Material.mat
+    - Assets/Materials/Sprite_Material.mat.meta
+    - Assets/Materials/Test_SecurityMaterial.mat
+    - Assets/Materials/Test_SecurityMaterial.mat.meta
+    - Assets/Materials/Wall 1.mat
+    - Assets/Materials/Wall 1.mat.meta
+    - Assets/Materials/Wall 2.mat
+    - Assets/Materials/Wall 2.mat.meta
+    - Assets/Materials/Wall 3.mat
+    - Assets/Materials/Wall 3.mat.meta
+    - Assets/Materials/Wall 4.mat
+    - Assets/Materials/Wall 4.mat.meta
+    - Assets/Materials/Wall 5.mat
+    - Assets/Materials/Wall 5.mat.meta
+    - Assets/Materials/Wall.mat
+    - Assets/Materials/Wall.mat.meta
+    - Assets/Materials/Wood.mat
+    - Assets/Materials/Wood.mat.meta
+    - Assets/Materials/blue.mat
+    - Assets/Materials/blue.mat.meta
+    - Assets/Materials/chair.mat
+    - Assets/Materials/chair.mat.meta
+    - Assets/Materials/paper.mat
+    - Assets/Materials/paper.mat.meta
+    - Assets/Materials/pipe1.mat
+    - Assets/Materials/pipe1.mat.meta
+    - Assets/Materials/pipe2.mat
+    - Assets/Materials/pipe2.mat.meta
+    - Assets/Materials/plank_texture_one.mat
+    - Assets/Materials/plank_texture_one.mat.meta
+    - Assets/Materials/red.mat
+    - Assets/Materials/red.mat.meta
+    - Assets/Misc.meta
+    - Assets/Misc/Horror Ambience Music 3 (Royalty Free).mp3
+    - Assets/Misc/Horror Ambience Music 3 (Royalty Free).mp3.meta
+    - Assets/Misc/Materials.meta
+    - Assets/Misc/Materials/batman_sprite.mat
+    - Assets/Misc/Materials/batman_sprite.mat.meta
+    - Assets/Misc/Materials/cat_8bit.mat
+    - Assets/Misc/Materials/cat_8bit.mat.meta
+    - Assets/Misc/Materials/cheetos.mat
+    - Assets/Misc/Materials/cheetos.mat.meta
+    - Assets/Misc/Materials/coin.mat
+    - Assets/Misc/Materials/coin.mat.meta
+    - Assets/Misc/Materials/gunsprite.mat
+    - Assets/Misc/Materials/gunsprite.mat.meta
+    - Assets/Misc/Materials/handgunicon.mat
+    - Assets/Misc/Materials/handgunicon.mat.meta
+    - Assets/Misc/Materials/kart.mat
+    - Assets/Misc/Materials/kart.mat.meta
+    - Assets/Misc/Materials/key.mat
+    - Assets/Misc/Materials/key.mat.meta
+    - Assets/Misc/Materials/paper.mat
+    - Assets/Misc/Materials/paper.mat.meta
+    - Assets/Misc/Materials/ring.mat
+    - Assets/Misc/Materials/ring.mat.meta
+    - Assets/Misc/Materials/spiderman.mat
+    - Assets/Misc/Materials/spiderman.mat.meta
+    - Assets/Misc/Materials/water_bottle.mat
+    - Assets/Misc/Materials/water_bottle.mat.meta
+    - Assets/Misc/Materials/white.mat
+    - Assets/Misc/Materials/white.mat.meta
+    - Assets/Misc/Materials/white_sprite.mat
+    - Assets/Misc/Materials/white_sprite.mat.meta
+    - Assets/Misc/axe_icon.png
+    - Assets/Misc/axe_icon.png.meta
+    - Assets/Misc/handgunicon.png
+    - Assets/Misc/handgunicon.png.meta
+    - Assets/Misc/key.png
+    - Assets/Misc/key.png.meta
+    - Assets/Misc/sslogo.png
+    - Assets/Misc/sslogo.png.meta
+    - Assets/Misc/white.jpg
+    - Assets/Misc/white.jpg.meta
+    - Assets/Misc/white_sprite.jpg
+    - Assets/Misc/white_sprite.jpg.meta
+    - Assets/NAMESTEST.cs
+    - Assets/NAMESTEST.cs.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Card.prefab
+    - Assets/Prefabs/Card.prefab.meta
+    - Assets/Prefabs/Cat.prefab
+    - Assets/Prefabs/Cat.prefab.meta
+    - Assets/Prefabs/Cheetos.prefab
+    - Assets/Prefabs/Cheetos.prefab.meta
+    - Assets/Prefabs/DialogueOption.prefab
+    - Assets/Prefabs/DialogueOption.prefab.meta
+    - Assets/Prefabs/Ekipmanlar.prefab
+    - Assets/Prefabs/Ekipmanlar.prefab.meta
+    - Assets/Prefabs/Glass.prefab
+    - Assets/Prefabs/Glass.prefab.meta
+    - Assets/Prefabs/Handgun.prefab
+    - Assets/Prefabs/Handgun.prefab.meta
+    - Assets/Prefabs/Kasa.prefab
+    - Assets/Prefabs/Kasa.prefab.meta
+    - Assets/Prefabs/Keyboard.prefab
+    - Assets/Prefabs/Keyboard.prefab.meta
+    - Assets/Prefabs/Monitor.prefab
+    - Assets/Prefabs/Monitor.prefab.meta
+    - Assets/Prefabs/Mouse.prefab
+    - Assets/Prefabs/Mouse.prefab.meta
+    - Assets/Prefabs/Paper.prefab
+    - Assets/Prefabs/Paper.prefab.meta
+    - Assets/Prefabs/Rifle.prefab
+    - Assets/Prefabs/Rifle.prefab.meta
+    - Assets/Prefabs/Ring.prefab
+    - Assets/Prefabs/Ring.prefab.meta
+    - Assets/Prefabs/Water.prefab
+    - Assets/Prefabs/Water.prefab.meta
+    - Assets/Prefabs/Window.prefab
+    - Assets/Prefabs/Window.prefab.meta
+    - Assets/Prefabs/chairs.prefab
+    - Assets/Prefabs/chairs.prefab.meta
+    - Assets/Prefabs/coin.prefab
+    - Assets/Prefabs/coin.prefab.meta
+    - Assets/Prefabs/key.prefab
+    - Assets/Prefabs/key.prefab.meta
+    - Assets/Prefabs/woods (1).prefab
+    - Assets/Prefabs/woods (1).prefab.meta
+    - Assets/ProBuilder Data.meta
+    - Assets/ProBuilder Data/Default Material Palette.asset
+    - Assets/ProBuilder Data/Default Material Palette.asset.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scenes/SampleScene/NavMesh.asset
+    - Assets/Scenes/SampleScene/NavMesh.asset.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/Area.cs
+    - Assets/Scripts/Area.cs.meta
+    - Assets/Scripts/AreaManager.cs
+    - Assets/Scripts/AreaManager.cs.meta
+    - Assets/Scripts/CatScript.cs
+    - Assets/Scripts/CatScript.cs.meta
+    - Assets/Scripts/CatVent.cs
+    - Assets/Scripts/CatVent.cs.meta
+    - Assets/Scripts/Character.cs
+    - Assets/Scripts/Character.cs.meta
+    - Assets/Scripts/ChildScript.cs
+    - Assets/Scripts/ChildScript.cs.meta
+    - Assets/Scripts/CombatScripts.meta
+    - Assets/Scripts/CombatScripts/Damageable.cs
+    - Assets/Scripts/CombatScripts/Damageable.cs.meta
+    - Assets/Scripts/DadScript.cs
+    - Assets/Scripts/DadScript.cs.meta
+    - Assets/Scripts/DialogueScripts.meta
+    - Assets/Scripts/DialogueScripts/DialogueManager.cs
+    - Assets/Scripts/DialogueScripts/DialogueManager.cs.meta
+    - Assets/Scripts/DialogueScripts/DialogueOption.cs
+    - Assets/Scripts/DialogueScripts/DialogueOption.cs.meta
+    - Assets/Scripts/DialogueScripts/IInitiateFunctionFromAnimator.cs
+    - Assets/Scripts/DialogueScripts/IInitiateFunctionFromAnimator.cs.meta
+    - Assets/Scripts/DialogueScripts/Talker.cs
+    - Assets/Scripts/DialogueScripts/Talker.cs.meta
+    - Assets/Scripts/Door.cs
+    - Assets/Scripts/Door.cs.meta
+    - Assets/Scripts/EndGame.cs
+    - Assets/Scripts/EndGame.cs.meta
+    - Assets/Scripts/GuardScript.cs
+    - Assets/Scripts/GuardScript.cs.meta
+    - Assets/Scripts/IAreaListener.cs
+    - Assets/Scripts/IAreaListener.cs.meta
+    - Assets/Scripts/ItemScripts.meta
+    - Assets/Scripts/ItemScripts/Crowbar.cs
+    - Assets/Scripts/ItemScripts/Crowbar.cs.meta
+    - Assets/Scripts/ItemScripts/Handgun.cs
+    - Assets/Scripts/ItemScripts/Handgun.cs.meta
+    - Assets/Scripts/ItemScripts/Inventory.cs
+    - Assets/Scripts/ItemScripts/Inventory.cs.meta
+    - Assets/Scripts/ItemScripts/Item.cs
+    - Assets/Scripts/ItemScripts/Item.cs.meta
+    - Assets/Scripts/ItemScripts/ItemProperties.cs
+    - Assets/Scripts/ItemScripts/ItemProperties.cs.meta
+    - Assets/Scripts/ItemScripts/Key.cs
+    - Assets/Scripts/ItemScripts/Key.cs.meta
+    - Assets/Scripts/ItemScripts/ThrowableItem.cs
+    - Assets/Scripts/ItemScripts/ThrowableItem.cs.meta
+    - Assets/Scripts/Localization.meta
+    - Assets/Scripts/Localization/LocalizationManager.cs
+    - Assets/Scripts/Localization/LocalizationManager.cs.meta
+    - Assets/Scripts/Localization/LocalizedText.cs
+    - Assets/Scripts/Localization/LocalizedText.cs.meta
+    - Assets/Scripts/Lock.cs
+    - Assets/Scripts/Lock.cs.meta
+    - Assets/Scripts/PCController.cs
+    - Assets/Scripts/PCController.cs.meta
+    - Assets/Scripts/PlayerControlScripts.meta
+    - Assets/Scripts/PlayerControlScripts/Bobbing.cs
+    - Assets/Scripts/PlayerControlScripts/Bobbing.cs.meta
+    - Assets/Scripts/PlayerControlScripts/IInteractableMono.cs
+    - Assets/Scripts/PlayerControlScripts/IInteractableMono.cs.meta
+    - Assets/Scripts/PlayerControlScripts/Interact.cs
+    - Assets/Scripts/PlayerControlScripts/Interact.cs.meta
+    - Assets/Scripts/PlayerControlScripts/MouseLook.cs
+    - Assets/Scripts/PlayerControlScripts/MouseLook.cs.meta
+    - Assets/Scripts/PlayerControlScripts/PlayerModules.cs
+    - Assets/Scripts/PlayerControlScripts/PlayerModules.cs.meta
+    - Assets/Scripts/PlayerControlScripts/PlayerMovement.cs
+    - Assets/Scripts/PlayerControlScripts/PlayerMovement.cs.meta
+    - Assets/Scripts/PlayerControlScripts/PlayerVitals.cs
+    - Assets/Scripts/PlayerControlScripts/PlayerVitals.cs.meta
+    - Assets/Scripts/ProgressManager.cs
+    - Assets/Scripts/ProgressManager.cs.meta
+    - Assets/Scripts/SaveAnimatorInArea.cs
+    - Assets/Scripts/SaveAnimatorInArea.cs.meta
+    - Assets/Scripts/SetAnimatorBoolOnAreaEnter.cs
+    - Assets/Scripts/SetAnimatorBoolOnAreaEnter.cs.meta
+    - Assets/Scripts/Splash.cs
+    - Assets/Scripts/Splash.cs.meta
+    - Assets/Scripts/ThreeDSpriteLook.cs
+    - Assets/Scripts/ThreeDSpriteLook.cs.meta
+    - Assets/Scripts/TriggerResults.cs
+    - Assets/Scripts/TriggerResults.cs.meta
+    - Assets/Scripts/UIScripts.meta
+    - Assets/Scripts/UIScripts/AchievementManager.cs
+    - Assets/Scripts/UIScripts/AchievementManager.cs.meta
+    - Assets/Scripts/UIScripts/AchievementSetter.cs
+    - Assets/Scripts/UIScripts/AchievementSetter.cs.meta
+    - Assets/Scripts/UIScripts/DialogueOptionUI.cs
+    - Assets/Scripts/UIScripts/DialogueOptionUI.cs.meta
+    - Assets/Scripts/UIScripts/InteractionUI.cs
+    - Assets/Scripts/UIScripts/InteractionUI.cs.meta
+    - Assets/Scripts/UIScripts/LocalizedUIText.cs
+    - Assets/Scripts/UIScripts/LocalizedUIText.cs.meta
+    - Assets/Scripts/UIShower.cs
+    - Assets/Scripts/UIShower.cs.meta
+    - Assets/Scripts/VendingMachine.cs
+    - Assets/Scripts/VendingMachine.cs.meta
+    - Assets/Scripts/WaterBottle.cs
+    - Assets/Scripts/WaterBottle.cs.meta
+    - Assets/Scripts/ZombieScript.cs
+    - Assets/Scripts/ZombieScript.cs.meta
+    - Assets/SetBoolOnStart.cs
+    - Assets/SetBoolOnStart.cs.meta
+    - Assets/Sounds.meta
+    - Assets/Sounds/Cat.meta
+    - Assets/Sounds/Cat/meow_01.wav
+    - Assets/Sounds/Cat/meow_01.wav.meta
+    - Assets/Sounds/Cat/meow_02.mp3
+    - Assets/Sounds/Cat/meow_02.mp3.meta
+    - Assets/Sounds/Cat/meow_03.wav
+    - Assets/Sounds/Cat/meow_03.wav.meta
+    - Assets/Sounds/Cat/meow_04.wav
+    - Assets/Sounds/Cat/meow_04.wav.meta
+    - Assets/Sounds/Cat/meow_05.wav
+    - Assets/Sounds/Cat/meow_05.wav.meta
+    - Assets/Sounds/Guns.meta
+    - Assets/Sounds/Guns/gun_ready.wav
+    - Assets/Sounds/Guns/gun_ready.wav.meta
+    - Assets/Sounds/Guns/pistol_empty.wav
+    - Assets/Sounds/Guns/pistol_empty.wav.meta
+    - Assets/Sounds/Guns/pistol_shot.mp3
+    - Assets/Sounds/Guns/pistol_shot.mp3.meta
+    - Assets/Sounds/Guns/rifle_empty.wav
+    - Assets/Sounds/Guns/rifle_empty.wav.meta
+    - Assets/Sounds/Guns/rifle_shot.mp3
+    - Assets/Sounds/Guns/rifle_shot.mp3.meta
+    - Assets/Sounds/Human.meta
+    - Assets/Sounds/Human/man_die.mp3
+    - Assets/Sounds/Human/man_die.mp3.meta
+    - Assets/Sounds/Human/man_grunt_01.mp3
+    - Assets/Sounds/Human/man_grunt_01.mp3.meta
+    - Assets/Sounds/Human/man_grunt_02.mp3
+    - Assets/Sounds/Human/man_grunt_02.mp3.meta
+    - Assets/Sounds/Human/man_grunt_03.mp3
+    - Assets/Sounds/Human/man_grunt_03.mp3.meta
+    - Assets/Sounds/Human/man_grunt_04.mp3
+    - Assets/Sounds/Human/man_grunt_04.mp3.meta
+    - Assets/Sounds/Human/man_grunt_05.mp3
+    - Assets/Sounds/Human/man_grunt_05.mp3.meta
+    - Assets/Sounds/Step.meta
+    - Assets/Sounds/Step/concrete_step_01.mp3
+    - Assets/Sounds/Step/concrete_step_01.mp3.meta
+    - Assets/Sounds/Step/concrete_step_02.mp3
+    - Assets/Sounds/Step/concrete_step_02.mp3.meta
+    - Assets/Sounds/Step/concrete_step_03.mp3
+    - Assets/Sounds/Step/concrete_step_03.mp3.meta
+    - Assets/Sounds/Step/concrete_step_04.mp3
+    - Assets/Sounds/Step/concrete_step_04.mp3.meta
+    - Assets/Sounds/Step/wood_step_01.mp3
+    - Assets/Sounds/Step/wood_step_01.mp3.meta
+    - Assets/Sounds/Step/wood_step_02.mp3
+    - Assets/Sounds/Step/wood_step_02.mp3.meta
+    - Assets/Sounds/Step/wood_step_03.mp3
+    - Assets/Sounds/Step/wood_step_03.mp3.meta
+    - Assets/Sounds/Step/wood_step_04.mp3
+    - Assets/Sounds/Step/wood_step_04.mp3.meta
+    - Assets/Sounds/WorldObjects.meta
+    - Assets/Sounds/WorldObjects/card_beep.wav
+    - Assets/Sounds/WorldObjects/card_beep.wav.meta
+    - Assets/Sounds/WorldObjects/cihps_equip.mp3
+    - Assets/Sounds/WorldObjects/cihps_equip.mp3.meta
+    - Assets/Sounds/WorldObjects/coin_equip.wav
+    - Assets/Sounds/WorldObjects/coin_equip.wav.meta
+    - Assets/Sounds/WorldObjects/computer_dot.wav
+    - Assets/Sounds/WorldObjects/computer_dot.wav.meta
+    - Assets/Sounds/WorldObjects/computer_error.wav
+    - Assets/Sounds/WorldObjects/computer_error.wav.meta
+    - Assets/Sounds/WorldObjects/computer_success.wav
+    - Assets/Sounds/WorldObjects/computer_success.wav.meta
+    - Assets/Sounds/WorldObjects/door_open.mp3
+    - Assets/Sounds/WorldObjects/door_open.mp3.meta
+    - Assets/Sounds/WorldObjects/glass_hit.mp3
+    - Assets/Sounds/WorldObjects/glass_hit.mp3.meta
+    - Assets/Sounds/WorldObjects/glass_shatter.mp3
+    - Assets/Sounds/WorldObjects/glass_shatter.mp3.meta
+    - Assets/Sounds/WorldObjects/guard_death.mp3
+    - Assets/Sounds/WorldObjects/guard_death.mp3.meta
+    - Assets/Sounds/WorldObjects/key_equip.wav
+    - Assets/Sounds/WorldObjects/key_equip.wav.meta
+    - Assets/Sounds/WorldObjects/keypress.wav
+    - Assets/Sounds/WorldObjects/keypress.wav.meta
+    - Assets/Sounds/WorldObjects/ladder_climb.mp3
+    - Assets/Sounds/WorldObjects/ladder_climb.mp3.meta
+    - Assets/Sounds/WorldObjects/ladder_fall.mp3
+    - Assets/Sounds/WorldObjects/ladder_fall.mp3.meta
+    - Assets/Sounds/WorldObjects/lights_out.mp3
+    - Assets/Sounds/WorldObjects/lights_out.mp3.meta
+    - Assets/Sounds/WorldObjects/lock_break.mp3
+    - Assets/Sounds/WorldObjects/lock_break.mp3.meta
+    - Assets/Sounds/WorldObjects/player_grunt.mp3
+    - Assets/Sounds/WorldObjects/player_grunt.mp3.meta
+    - Assets/Sounds/WorldObjects/register_open.mp3
+    - Assets/Sounds/WorldObjects/register_open.mp3.meta
+    - Assets/Sounds/WorldObjects/ring_equip.wav
+    - Assets/Sounds/WorldObjects/ring_equip.wav.meta
+    - Assets/Sounds/WorldObjects/safe_open.mp3
+    - Assets/Sounds/WorldObjects/safe_open.mp3.meta
+    - Assets/Sounds/WorldObjects/text_beep.mp3
+    - Assets/Sounds/WorldObjects/text_beep.mp3.meta
+    - Assets/Sounds/WorldObjects/text_beep_02.mp3
+    - Assets/Sounds/WorldObjects/text_beep_02.mp3.meta
+    - Assets/Sounds/WorldObjects/text_blips.ogg
+    - Assets/Sounds/WorldObjects/text_blips.ogg.meta
+    - Assets/Sounds/WorldObjects/water_equip.mp3
+    - Assets/Sounds/WorldObjects/water_equip.mp3.meta
+    - Assets/Sounds/WorldObjects/whip.wav
+    - Assets/Sounds/WorldObjects/whip.wav.meta
+    - Assets/Sounds/Zombie.meta
+    - Assets/Sounds/Zombie/zombie_grunt_01.wav
+    - Assets/Sounds/Zombie/zombie_grunt_01.wav.meta
+    - Assets/Sounds/Zombie/zombie_grunt_02.wav
+    - Assets/Sounds/Zombie/zombie_grunt_02.wav.meta
+    - Assets/Sounds/Zombie/zombie_grunt_03.wav
+    - Assets/Sounds/Zombie/zombie_grunt_03.wav.meta
+    - Assets/Sounds/Zombie/zombie_grunt_04.mp3
+    - Assets/Sounds/Zombie/zombie_grunt_04.mp3.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/Character.meta
+    - Assets/Sprites/Character/Child.meta
+    - Assets/Sprites/Character/Child/child_idle_normal.png
+    - Assets/Sprites/Character/Child/child_idle_normal.png.meta
+    - Assets/Sprites/Character/Child/child_idle_sad.png
+    - Assets/Sprites/Character/Child/child_idle_sad.png.meta
+    - Assets/Sprites/Character/Dad.meta
+    - Assets/Sprites/Character/Dad/die.meta
+    - Assets/Sprites/Character/Dad/die/dead.png
+    - Assets/Sprites/Character/Dad/die/dead.png.meta
+    - Assets/Sprites/Character/Dad/die/die_01.png
+    - Assets/Sprites/Character/Dad/die/die_01.png.meta
+    - Assets/Sprites/Character/Dad/die/die_02.png
+    - Assets/Sprites/Character/Dad/die/die_02.png.meta
+    - Assets/Sprites/Character/Dad/die/die_03.png
+    - Assets/Sprites/Character/Dad/die/die_03.png.meta
+    - Assets/Sprites/Character/Dad/die/die_04.png
+    - Assets/Sprites/Character/Dad/die/die_04.png.meta
+    - Assets/Sprites/Character/Dad/die/die_05.png
+    - Assets/Sprites/Character/Dad/die/die_05.png.meta
+    - Assets/Sprites/Character/Dad/hit_01.meta
+    - Assets/Sprites/Character/Dad/hit_01/hit_01_handgun.png
+    - Assets/Sprites/Character/Dad/hit_01/hit_01_handgun.png.meta
+    - Assets/Sprites/Character/Dad/hit_01/hit_01_rifle.png
+    - Assets/Sprites/Character/Dad/hit_01/hit_01_rifle.png.meta
+    - Assets/Sprites/Character/Dad/hit_02.meta
+    - Assets/Sprites/Character/Dad/hit_02/hit_02_handgun.png
+    - Assets/Sprites/Character/Dad/hit_02/hit_02_handgun.png.meta
+    - Assets/Sprites/Character/Dad/hit_02/hit_02_rifle.png
+    - Assets/Sprites/Character/Dad/hit_02/hit_02_rifle.png.meta
+    - Assets/Sprites/Character/Dad/hit_03.meta
+    - Assets/Sprites/Character/Dad/hit_03/hit_03_handgun.png
+    - Assets/Sprites/Character/Dad/hit_03/hit_03_handgun.png.meta
+    - Assets/Sprites/Character/Dad/hit_03/hit_03_rifle.png
+    - Assets/Sprites/Character/Dad/hit_03/hit_03_rifle.png.meta
+    - Assets/Sprites/Character/Dad/idle.meta
+    - Assets/Sprites/Character/Dad/idle/idle_enemy_handgun.png
+    - Assets/Sprites/Character/Dad/idle/idle_enemy_handgun.png.meta
+    - Assets/Sprites/Character/Dad/idle/idle_enemy_rifle.png
+    - Assets/Sprites/Character/Dad/idle/idle_enemy_rifle.png.meta
+    - Assets/Sprites/Character/Dad/idle/idle_friendly_handgun.png
+    - Assets/Sprites/Character/Dad/idle/idle_friendly_handgun.png.meta
+    - Assets/Sprites/Character/Dad/idle/idle_friendly_rifle.png
+    - Assets/Sprites/Character/Dad/idle/idle_friendly_rifle.png.meta
+    - Assets/Sprites/Character/Items.meta
+    - Assets/Sprites/Character/Items/Materials.meta
+    - Assets/Sprites/Character/Items/Materials/card_world.mat
+    - Assets/Sprites/Character/Items/Materials/card_world.mat.meta
+    - Assets/Sprites/Character/Items/Materials/cat_player.mat
+    - Assets/Sprites/Character/Items/Materials/cat_player.mat.meta
+    - Assets/Sprites/Character/Items/Materials/chips_player.mat
+    - Assets/Sprites/Character/Items/Materials/chips_player.mat.meta
+    - Assets/Sprites/Character/Items/Materials/chips_world.mat
+    - Assets/Sprites/Character/Items/Materials/chips_world.mat.meta
+    - Assets/Sprites/Character/Items/Materials/coin_player.mat
+    - Assets/Sprites/Character/Items/Materials/coin_player.mat.meta
+    - Assets/Sprites/Character/Items/Materials/ring_player.mat
+    - Assets/Sprites/Character/Items/Materials/ring_player.mat.meta
+    - Assets/Sprites/Character/Items/Materials/ring_world.mat
+    - Assets/Sprites/Character/Items/Materials/ring_world.mat.meta
+    - Assets/Sprites/Character/Items/card_player.png
+    - Assets/Sprites/Character/Items/card_player.png.meta
+    - Assets/Sprites/Character/Items/card_world.png
+    - Assets/Sprites/Character/Items/card_world.png.meta
+    - Assets/Sprites/Character/Items/cat_eaten.png
+    - Assets/Sprites/Character/Items/cat_eaten.png.meta
+    - Assets/Sprites/Character/Items/cat_player.png
+    - Assets/Sprites/Character/Items/cat_player.png.meta
+    - Assets/Sprites/Character/Items/cat_shot.png
+    - Assets/Sprites/Character/Items/cat_shot.png.meta
+    - Assets/Sprites/Character/Items/cat_walk_01.png
+    - Assets/Sprites/Character/Items/cat_walk_01.png.meta
+    - Assets/Sprites/Character/Items/cat_walk_02.png
+    - Assets/Sprites/Character/Items/cat_walk_02.png.meta
+    - Assets/Sprites/Character/Items/cat_world_front.png
+    - Assets/Sprites/Character/Items/cat_world_front.png.meta
+    - Assets/Sprites/Character/Items/chips_player.png
+    - Assets/Sprites/Character/Items/chips_player.png.meta
+    - Assets/Sprites/Character/Items/chips_world.png
+    - Assets/Sprites/Character/Items/chips_world.png.meta
+    - Assets/Sprites/Character/Items/coin_player.png
+    - Assets/Sprites/Character/Items/coin_player.png.meta
+    - Assets/Sprites/Character/Items/coin_world.png
+    - Assets/Sprites/Character/Items/coin_world.png.meta
+    - Assets/Sprites/Character/Items/crowbar_attack_01.png
+    - Assets/Sprites/Character/Items/crowbar_attack_01.png.meta
+    - Assets/Sprites/Character/Items/crowbar_player.png
+    - Assets/Sprites/Character/Items/crowbar_player.png.meta
+    - Assets/Sprites/Character/Items/handgun_player.png
+    - Assets/Sprites/Character/Items/handgun_player.png.meta
+    - Assets/Sprites/Character/Items/handgun_shoot.png
+    - Assets/Sprites/Character/Items/handgun_shoot.png.meta
+    - Assets/Sprites/Character/Items/key_player.png
+    - Assets/Sprites/Character/Items/key_player.png.meta
+    - Assets/Sprites/Character/Items/key_world.png
+    - Assets/Sprites/Character/Items/key_world.png.meta
+    - Assets/Sprites/Character/Items/rifle_player.png
+    - Assets/Sprites/Character/Items/rifle_player.png.meta
+    - Assets/Sprites/Character/Items/rifle_shoot.png
+    - Assets/Sprites/Character/Items/rifle_shoot.png.meta
+    - Assets/Sprites/Character/Items/ring_player.png
+    - Assets/Sprites/Character/Items/ring_player.png.meta
+    - Assets/Sprites/Character/Items/ring_world.png
+    - Assets/Sprites/Character/Items/ring_world.png.meta
+    - Assets/Sprites/Character/Items/water_bottle.png
+    - Assets/Sprites/Character/Items/water_bottle.png.meta
+    - Assets/Sprites/Character/Selim.meta
+    - Assets/Sprites/Character/Selim/die.meta
+    - Assets/Sprites/Character/Selim/die/dead.png
+    - Assets/Sprites/Character/Selim/die/dead.png.meta
+    - Assets/Sprites/Character/Selim/die/die_01.png
+    - Assets/Sprites/Character/Selim/die/die_01.png.meta
+    - Assets/Sprites/Character/Selim/die/die_02.png
+    - Assets/Sprites/Character/Selim/die/die_02.png.meta
+    - Assets/Sprites/Character/Selim/die/die_03.png
+    - Assets/Sprites/Character/Selim/die/die_03.png.meta
+    - Assets/Sprites/Character/Selim/die/die_04.png
+    - Assets/Sprites/Character/Selim/die/die_04.png.meta
+    - Assets/Sprites/Character/Selim/die/die_05.png
+    - Assets/Sprites/Character/Selim/die/die_05.png.meta
+    - Assets/Sprites/Character/Selim/hit_01.meta
+    - Assets/Sprites/Character/Selim/hit_01/hit_01.png
+    - Assets/Sprites/Character/Selim/hit_01/hit_01.png.meta
+    - Assets/Sprites/Character/Selim/idle.meta
+    - Assets/Sprites/Character/Selim/idle/idle.png
+    - Assets/Sprites/Character/Selim/idle/idle.png.meta
+    - Assets/Sprites/Character/Selim/idle/idle_afraid.png
+    - Assets/Sprites/Character/Selim/idle/idle_afraid.png.meta
+    - Assets/Sprites/Character/Zombie.meta
+    - Assets/Sprites/Character/Zombie/attack.meta
+    - Assets/Sprites/Character/Zombie/attack/attack_01.png
+    - Assets/Sprites/Character/Zombie/attack/attack_01.png.meta
+    - Assets/Sprites/Character/Zombie/attack/attack_02.png
+    - Assets/Sprites/Character/Zombie/attack/attack_02.png.meta
+    - Assets/Sprites/Character/Zombie/attack/attack_03.png
+    - Assets/Sprites/Character/Zombie/attack/attack_03.png.meta
+    - Assets/Sprites/Character/Zombie/die.meta
+    - Assets/Sprites/Character/Zombie/die/dead.png
+    - Assets/Sprites/Character/Zombie/die/dead.png.meta
+    - Assets/Sprites/Character/Zombie/die/die_01.png
+    - Assets/Sprites/Character/Zombie/die/die_01.png.meta
+    - Assets/Sprites/Character/Zombie/die/die_02.png
+    - Assets/Sprites/Character/Zombie/die/die_02.png.meta
+    - Assets/Sprites/Character/Zombie/die/die_03.png
+    - Assets/Sprites/Character/Zombie/die/die_03.png.meta
+    - Assets/Sprites/Character/Zombie/die/die_04.png
+    - Assets/Sprites/Character/Zombie/die/die_04.png.meta
+    - Assets/Sprites/Character/Zombie/die/die_05.png
+    - Assets/Sprites/Character/Zombie/die/die_05.png.meta
+    - Assets/Sprites/Character/Zombie/hit.meta
+    - Assets/Sprites/Character/Zombie/hit/hit_01_01.png
+    - Assets/Sprites/Character/Zombie/hit/hit_01_01.png.meta
+    - Assets/Sprites/Character/Zombie/hit/hit_01_02.png
+    - Assets/Sprites/Character/Zombie/hit/hit_01_02.png.meta
+    - Assets/Sprites/Character/Zombie/hit/hit_01_03.png
+    - Assets/Sprites/Character/Zombie/hit/hit_01_03.png.meta
+    - Assets/Sprites/Character/Zombie/hit/hit_01_04.png
+    - Assets/Sprites/Character/Zombie/hit/hit_01_04.png.meta
+    - Assets/Sprites/Character/Zombie/hit_02.meta
+    - Assets/Sprites/Character/Zombie/hit_02/hit_02_01.png
+    - Assets/Sprites/Character/Zombie/hit_02/hit_02_01.png.meta
+    - Assets/Sprites/Character/Zombie/hit_02/hit_02_02.png
+    - Assets/Sprites/Character/Zombie/hit_02/hit_02_02.png.meta
+    - Assets/Sprites/Character/Zombie/hit_02/hit_02_03.png
+    - Assets/Sprites/Character/Zombie/hit_02/hit_02_03.png.meta
+    - Assets/Sprites/Character/Zombie/hit_02/hit_02_04.png
+    - Assets/Sprites/Character/Zombie/hit_02/hit_02_04.png.meta
+    - Assets/Sprites/Character/Zombie/hit_03.meta
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_01.png
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_01.png.meta
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_02.png
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_02.png.meta
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_03.png
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_03.png.meta
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_04.png
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_04.png.meta
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_05.png
+    - Assets/Sprites/Character/Zombie/hit_03/hit_03_05.png.meta
+    - Assets/Sprites/Character/Zombie/idle.meta
+    - Assets/Sprites/Character/Zombie/idle/idle_back.png
+    - Assets/Sprites/Character/Zombie/idle/idle_back.png.meta
+    - Assets/Sprites/Character/Zombie/idle/idle_front.png
+    - Assets/Sprites/Character/Zombie/idle/idle_front.png.meta
+    - Assets/Sprites/Character/Zombie/idle/idle_side.png
+    - Assets/Sprites/Character/Zombie/idle/idle_side.png.meta
+    - Assets/Sprites/Environmental.meta
+    - Assets/Sprites/Environmental/Materials.meta
+    - Assets/Sprites/Environmental/Materials/bed.mat
+    - Assets/Sprites/Environmental/Materials/bed.mat.meta
+    - Assets/Sprites/Environmental/Materials/blanket_01.mat
+    - Assets/Sprites/Environmental/Materials/blanket_01.mat.meta
+    - Assets/Sprites/Environmental/Materials/blanket_02.mat
+    - Assets/Sprites/Environmental/Materials/blanket_02.mat.meta
+    - Assets/Sprites/Environmental/Materials/box_01.mat
+    - Assets/Sprites/Environmental/Materials/box_01.mat.meta
+    - Assets/Sprites/Environmental/Materials/box_02.mat
+    - Assets/Sprites/Environmental/Materials/box_02.mat.meta
+    - Assets/Sprites/Environmental/Materials/box_03.mat
+    - Assets/Sprites/Environmental/Materials/box_03.mat.meta
+    - Assets/Sprites/Environmental/Materials/box_04.mat
+    - Assets/Sprites/Environmental/Materials/box_04.mat.meta
+    - Assets/Sprites/Environmental/Materials/crack_01.mat
+    - Assets/Sprites/Environmental/Materials/crack_01.mat.meta
+    - Assets/Sprites/Environmental/Materials/crack_02.mat
+    - Assets/Sprites/Environmental/Materials/crack_02.mat.meta
+    - Assets/Sprites/Environmental/Materials/crack_03.mat
+    - Assets/Sprites/Environmental/Materials/crack_03.mat.meta
+    - Assets/Sprites/Environmental/Materials/deformation_01.mat
+    - Assets/Sprites/Environmental/Materials/deformation_01.mat.meta
+    - Assets/Sprites/Environmental/Materials/deformation_02.mat
+    - Assets/Sprites/Environmental/Materials/deformation_02.mat.meta
+    - Assets/Sprites/Environmental/Materials/fluorescent.mat
+    - Assets/Sprites/Environmental/Materials/fluorescent.mat.meta
+    - Assets/Sprites/Environmental/Materials/junk_01.mat
+    - Assets/Sprites/Environmental/Materials/junk_01.mat.meta
+    - Assets/Sprites/Environmental/Materials/lightbulb.mat
+    - Assets/Sprites/Environmental/Materials/lightbulb.mat.meta
+    - Assets/Sprites/Environmental/Materials/litter_01.mat
+    - Assets/Sprites/Environmental/Materials/litter_01.mat.meta
+    - Assets/Sprites/Environmental/Materials/litter_02.mat
+    - Assets/Sprites/Environmental/Materials/litter_02.mat.meta
+    - Assets/Sprites/Environmental/Materials/litter_05.mat
+    - Assets/Sprites/Environmental/Materials/litter_05.mat.meta
+    - Assets/Sprites/Environmental/Materials/litter_06.mat
+    - Assets/Sprites/Environmental/Materials/litter_06.mat.meta
+    - Assets/Sprites/Environmental/Materials/litter_07.mat
+    - Assets/Sprites/Environmental/Materials/litter_07.mat.meta
+    - Assets/Sprites/Environmental/Materials/litter_08.mat
+    - Assets/Sprites/Environmental/Materials/litter_08.mat.meta
+    - Assets/Sprites/Environmental/Materials/pillow_01.mat
+    - Assets/Sprites/Environmental/Materials/pillow_01.mat.meta
+    - Assets/Sprites/Environmental/Materials/pillow_02.mat
+    - Assets/Sprites/Environmental/Materials/pillow_02.mat.meta
+    - Assets/Sprites/Environmental/Materials/pipe_01.mat
+    - Assets/Sprites/Environmental/Materials/pipe_01.mat.meta
+    - Assets/Sprites/Environmental/Materials/pipe_02.mat
+    - Assets/Sprites/Environmental/Materials/pipe_02.mat.meta
+    - Assets/Sprites/Environmental/Materials/pipe_03.mat
+    - Assets/Sprites/Environmental/Materials/pipe_03.mat.meta
+    - Assets/Sprites/Environmental/Materials/pipe_04.mat
+    - Assets/Sprites/Environmental/Materials/pipe_04.mat.meta
+    - Assets/Sprites/Environmental/Materials/skeleton.mat
+    - Assets/Sprites/Environmental/Materials/skeleton.mat.meta
+    - Assets/Sprites/Environmental/Materials/wood_texture 1.mat
+    - Assets/Sprites/Environmental/Materials/wood_texture 1.mat.meta
+    - Assets/Sprites/Environmental/Materials/wood_texture.mat
+    - Assets/Sprites/Environmental/Materials/wood_texture.mat.meta
+    - Assets/Sprites/Environmental/bed.png
+    - Assets/Sprites/Environmental/bed.png.meta
+    - Assets/Sprites/Environmental/blanket_01.png
+    - Assets/Sprites/Environmental/blanket_01.png.meta
+    - Assets/Sprites/Environmental/blanket_02.png
+    - Assets/Sprites/Environmental/blanket_02.png.meta
+    - Assets/Sprites/Environmental/blood_01.png
+    - Assets/Sprites/Environmental/blood_01.png.meta
+    - Assets/Sprites/Environmental/box_01.png
+    - Assets/Sprites/Environmental/box_01.png.meta
+    - Assets/Sprites/Environmental/box_02.png
+    - Assets/Sprites/Environmental/box_02.png.meta
+    - Assets/Sprites/Environmental/box_03.png
+    - Assets/Sprites/Environmental/box_03.png.meta
+    - Assets/Sprites/Environmental/box_04.png
+    - Assets/Sprites/Environmental/box_04.png.meta
+    - Assets/Sprites/Environmental/crack_01.png
+    - Assets/Sprites/Environmental/crack_01.png.meta
+    - Assets/Sprites/Environmental/crack_02.png
+    - Assets/Sprites/Environmental/crack_02.png.meta
+    - Assets/Sprites/Environmental/crack_03.png
+    - Assets/Sprites/Environmental/crack_03.png.meta
+    - Assets/Sprites/Environmental/deformation_01.png
+    - Assets/Sprites/Environmental/deformation_01.png.meta
+    - Assets/Sprites/Environmental/deformation_02.png
+    - Assets/Sprites/Environmental/deformation_02.png.meta
+    - Assets/Sprites/Environmental/fluorescent.png
+    - Assets/Sprites/Environmental/fluorescent.png.meta
+    - Assets/Sprites/Environmental/fluorescent_broken.png
+    - Assets/Sprites/Environmental/fluorescent_broken.png.meta
+    - Assets/Sprites/Environmental/junk_01.png
+    - Assets/Sprites/Environmental/junk_01.png.meta
+    - Assets/Sprites/Environmental/lightbulb.png
+    - Assets/Sprites/Environmental/lightbulb.png.meta
+    - Assets/Sprites/Environmental/litter_01.png
+    - Assets/Sprites/Environmental/litter_01.png.meta
+    - Assets/Sprites/Environmental/litter_02.png
+    - Assets/Sprites/Environmental/litter_02.png.meta
+    - Assets/Sprites/Environmental/litter_03.png
+    - Assets/Sprites/Environmental/litter_03.png.meta
+    - Assets/Sprites/Environmental/litter_04.png
+    - Assets/Sprites/Environmental/litter_04.png.meta
+    - Assets/Sprites/Environmental/litter_05.png
+    - Assets/Sprites/Environmental/litter_05.png.meta
+    - Assets/Sprites/Environmental/litter_06.png
+    - Assets/Sprites/Environmental/litter_06.png.meta
+    - Assets/Sprites/Environmental/litter_07.png
+    - Assets/Sprites/Environmental/litter_07.png.meta
+    - Assets/Sprites/Environmental/litter_08.png
+    - Assets/Sprites/Environmental/litter_08.png.meta
+    - Assets/Sprites/Environmental/pillow_01.png
+    - Assets/Sprites/Environmental/pillow_01.png.meta
+    - Assets/Sprites/Environmental/pillow_02.png
+    - Assets/Sprites/Environmental/pillow_02.png.meta
+    - Assets/Sprites/Environmental/pipe_01.png
+    - Assets/Sprites/Environmental/pipe_01.png.meta
+    - Assets/Sprites/Environmental/pipe_02.png
+    - Assets/Sprites/Environmental/pipe_02.png.meta
+    - Assets/Sprites/Environmental/pipe_03.png
+    - Assets/Sprites/Environmental/pipe_03.png.meta
+    - Assets/Sprites/Environmental/pipe_04.png
+    - Assets/Sprites/Environmental/pipe_04.png.meta
+    - Assets/Sprites/Environmental/skeleton.png
+    - Assets/Sprites/Environmental/skeleton.png.meta
+    - Assets/Sprites/Environmental/wall 1.png
+    - Assets/Sprites/Environmental/wall 1.png.meta
+    - Assets/Sprites/Environmental/wall.png
+    - Assets/Sprites/Environmental/wall.png.meta
+    - Assets/Sprites/Environmental/wood_texture 1.png
+    - Assets/Sprites/Environmental/wood_texture 1.png.meta
+    - Assets/Sprites/Environmental/wood_texture.png
+    - Assets/Sprites/Environmental/wood_texture.png.meta
+    - Assets/Sprites/Misc.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0000_Katman-13.png
+    - Assets/Sprites/Misc/sunstruck32bit_0000_Katman-13.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0001_Katman-12.png
+    - Assets/Sprites/Misc/sunstruck32bit_0001_Katman-12.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0002_Katman-11.png
+    - Assets/Sprites/Misc/sunstruck32bit_0002_Katman-11.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0003_Katman-10.png
+    - Assets/Sprites/Misc/sunstruck32bit_0003_Katman-10.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0004_Katman-9.png
+    - Assets/Sprites/Misc/sunstruck32bit_0004_Katman-9.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0005_Katman-8.png
+    - Assets/Sprites/Misc/sunstruck32bit_0005_Katman-8.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0006_Katman-7.png
+    - Assets/Sprites/Misc/sunstruck32bit_0006_Katman-7.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0007_Katman-6.png
+    - Assets/Sprites/Misc/sunstruck32bit_0007_Katman-6.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0008_Katman-5.png
+    - Assets/Sprites/Misc/sunstruck32bit_0008_Katman-5.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0009_Katman-4.png
+    - Assets/Sprites/Misc/sunstruck32bit_0009_Katman-4.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0010_Katman-3.png
+    - Assets/Sprites/Misc/sunstruck32bit_0010_Katman-3.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0011_Katman-2.png
+    - Assets/Sprites/Misc/sunstruck32bit_0011_Katman-2.png.meta
+    - Assets/Sprites/Misc/sunstruck32bit_0012_Katman-1.png
+    - Assets/Sprites/Misc/sunstruck32bit_0012_Katman-1.png.meta
+    - Assets/Sprites/World Sprites.meta
+    - Assets/Sprites/World Sprites/Materials.meta
+    - Assets/Sprites/World Sprites/Materials/card_poster_world.mat
+    - Assets/Sprites/World Sprites/Materials/card_poster_world.mat.meta
+    - Assets/Sprites/World Sprites/Materials/card_reader.mat
+    - Assets/Sprites/World Sprites/Materials/card_reader.mat.meta
+    - Assets/Sprites/World Sprites/Materials/cat_chips_drawing.mat
+    - Assets/Sprites/World Sprites/Materials/cat_chips_drawing.mat.meta
+    - Assets/Sprites/World Sprites/Materials/cat_chips_psoter.mat
+    - Assets/Sprites/World Sprites/Materials/cat_chips_psoter.mat.meta
+    - Assets/Sprites/World Sprites/Materials/cat_drawing_01.mat
+    - Assets/Sprites/World Sprites/Materials/cat_drawing_01.mat.meta
+    - Assets/Sprites/World Sprites/Materials/cat_drawing_02.mat
+    - Assets/Sprites/World Sprites/Materials/cat_drawing_02.mat.meta
+    - Assets/Sprites/World Sprites/Materials/cat_drawing_03.mat
+    - Assets/Sprites/World Sprites/Materials/cat_drawing_03.mat.meta
+    - Assets/Sprites/World Sprites/Materials/cat_forbidden.mat
+    - Assets/Sprites/World Sprites/Materials/cat_forbidden.mat.meta
+    - Assets/Sprites/World Sprites/Materials/cat_vent_forbidden.mat
+    - Assets/Sprites/World Sprites/Materials/cat_vent_forbidden.mat.meta
+    - Assets/Sprites/World Sprites/Materials/chips_drawing_01.mat
+    - Assets/Sprites/World Sprites/Materials/chips_drawing_01.mat.meta
+    - Assets/Sprites/World Sprites/Materials/door_sprite.mat
+    - Assets/Sprites/World Sprites/Materials/door_sprite.mat.meta
+    - Assets/Sprites/World Sprites/Materials/lock_with_chains.mat
+    - Assets/Sprites/World Sprites/Materials/lock_with_chains.mat.meta
+    - Assets/Sprites/World Sprites/Materials/register.mat
+    - Assets/Sprites/World Sprites/Materials/register.mat.meta
+    - Assets/Sprites/World Sprites/Materials/rifle_world.mat
+    - Assets/Sprites/World Sprites/Materials/rifle_world.mat.meta
+    - Assets/Sprites/World Sprites/Materials/safe_front.mat
+    - Assets/Sprites/World Sprites/Materials/safe_front.mat.meta
+    - Assets/Sprites/World Sprites/Materials/vent.mat
+    - Assets/Sprites/World Sprites/Materials/vent.mat.meta
+    - Assets/Sprites/World Sprites/card_poster_world.png
+    - Assets/Sprites/World Sprites/card_poster_world.png.meta
+    - Assets/Sprites/World Sprites/card_reader.png
+    - Assets/Sprites/World Sprites/card_reader.png.meta
+    - Assets/Sprites/World Sprites/cat_chips_drawing.png
+    - Assets/Sprites/World Sprites/cat_chips_drawing.png.meta
+    - Assets/Sprites/World Sprites/cat_chips_psoter.png
+    - Assets/Sprites/World Sprites/cat_chips_psoter.png.meta
+    - Assets/Sprites/World Sprites/cat_drawing_01.png
+    - Assets/Sprites/World Sprites/cat_drawing_01.png.meta
+    - Assets/Sprites/World Sprites/cat_drawing_02.png
+    - Assets/Sprites/World Sprites/cat_drawing_02.png.meta
+    - Assets/Sprites/World Sprites/cat_drawing_03.png
+    - Assets/Sprites/World Sprites/cat_drawing_03.png.meta
+    - Assets/Sprites/World Sprites/cat_forbidden.png
+    - Assets/Sprites/World Sprites/cat_forbidden.png.meta
+    - Assets/Sprites/World Sprites/cat_logo.png
+    - Assets/Sprites/World Sprites/cat_logo.png.meta
+    - Assets/Sprites/World Sprites/cat_vent_forbidden.png
+    - Assets/Sprites/World Sprites/cat_vent_forbidden.png.meta
+    - Assets/Sprites/World Sprites/chips_drawing_01.png
+    - Assets/Sprites/World Sprites/chips_drawing_01.png.meta
+    - Assets/Sprites/World Sprites/door_sprite.png
+    - Assets/Sprites/World Sprites/door_sprite.png.meta
+    - Assets/Sprites/World Sprites/glass_01.png
+    - Assets/Sprites/World Sprites/glass_01.png.meta
+    - Assets/Sprites/World Sprites/glass_02.png
+    - Assets/Sprites/World Sprites/glass_02.png.meta
+    - Assets/Sprites/World Sprites/glass_03.png
+    - Assets/Sprites/World Sprites/glass_03.png.meta
+    - Assets/Sprites/World Sprites/glass_04.png
+    - Assets/Sprites/World Sprites/glass_04.png.meta
+    - Assets/Sprites/World Sprites/glass_05.png
+    - Assets/Sprites/World Sprites/glass_05.png.meta
+    - Assets/Sprites/World Sprites/glass_06.png
+    - Assets/Sprites/World Sprites/glass_06.png.meta
+    - Assets/Sprites/World Sprites/glass_07.png
+    - Assets/Sprites/World Sprites/glass_07.png.meta
+    - Assets/Sprites/World Sprites/glass_08.png
+    - Assets/Sprites/World Sprites/glass_08.png.meta
+    - Assets/Sprites/World Sprites/glass_09.png
+    - Assets/Sprites/World Sprites/glass_09.png.meta
+    - Assets/Sprites/World Sprites/glass_10.png
+    - Assets/Sprites/World Sprites/glass_10.png.meta
+    - Assets/Sprites/World Sprites/ladder.png
+    - Assets/Sprites/World Sprites/ladder.png.meta
+    - Assets/Sprites/World Sprites/lever.png
+    - Assets/Sprites/World Sprites/lever.png.meta
+    - Assets/Sprites/World Sprites/lock.png
+    - Assets/Sprites/World Sprites/lock.png.meta
+    - Assets/Sprites/World Sprites/lock_with_chains.png
+    - Assets/Sprites/World Sprites/lock_with_chains.png.meta
+    - Assets/Sprites/World Sprites/muzzle_flash.png
+    - Assets/Sprites/World Sprites/muzzle_flash.png.meta
+    - Assets/Sprites/World Sprites/register.png
+    - Assets/Sprites/World Sprites/register.png.meta
+    - Assets/Sprites/World Sprites/rifle_world.png
+    - Assets/Sprites/World Sprites/rifle_world.png.meta
+    - Assets/Sprites/World Sprites/safe_front.png
+    - Assets/Sprites/World Sprites/safe_front.png.meta
+    - Assets/Sprites/World Sprites/vent.png
+    - Assets/Sprites/World Sprites/vent.png.meta
+    - Assets/StreamingAssets.meta
+    - Assets/StreamingAssets/lang_en.txt
+    - Assets/StreamingAssets/lang_en.txt.meta
+    - Assets/StreamingAssets/lang_tr.txt
+    - Assets/StreamingAssets/lang_tr.txt.meta
+    - Assets/YIGMATEST.cs
+    - Assets/YIGMATEST.cs.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
